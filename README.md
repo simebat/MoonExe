@@ -1,4 +1,4 @@
-# USDT Staking (BSC)
+# MoonExe USDT Staking (BSC)
 
 Fixed-term staking for BEP20 USDT on BNB Smart Chain. Users lock USDT for 90 days and get it back with 12% APR (simple interest) in one withdrawal at the end.
 
